@@ -37,7 +37,7 @@ out/
 HELP.md
 .gradle
 build/
-!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/app-card-delivery.jar
 !**/src/main/**
 !**/src/test/**
 
